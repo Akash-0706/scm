@@ -9,7 +9,7 @@ int main()
     cout << "a = " << a << ", b = " << b << endl;
 
     temp = a;
-    a = b;
+    a = b;   //ftcftncftft
     b = temp;
 
     cout << "\nAfter swapping." << endl;
